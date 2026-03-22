@@ -1,0 +1,6 @@
+export const HOME_API="http://localhost:5000/api/homepage"
+export const ADMIN_API="http://localhost:5000/api/admin"
+export const PRODUCT_API="http://localhost:5000/api/product"
+export const LOCATION_API="http://localhost:5000/api/location"
+export const ABOUT_API="http://localhost:5000/api/homepage"
+export const CONTACT_API="http://localhost:5000/api/contact"
