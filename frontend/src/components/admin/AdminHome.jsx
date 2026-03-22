@@ -281,10 +281,10 @@ const AdminHome = () => {
           </div>
         </div>
       )}
-      <AdminProduct/>
+      {/* <AdminProduct/>
       <AdminAbout/>
       <AdminContact/>
-      <AdminLocation/>
+      <AdminLocation/> */}
     </div>
   );
 };
