@@ -14,8 +14,8 @@ const app = express()
 app.use(cors())
 app.use(cors({
   origin: [
-    "http://localhost:5173"
-    // "https://tumhara-project.vercel.app" // deploy hone ke baad real URL daalna
+    "http://localhost:5173",
+    "https://samridhi-enterprises.vercel.app" // deploy hone ke baad real URL daalna
   ],
   credentials: true
 }))
